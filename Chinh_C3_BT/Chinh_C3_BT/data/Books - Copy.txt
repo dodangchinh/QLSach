@@ -1,0 +1,9 @@
+8
+GD01,Quyen sach A,Le Van Hoa,100,GD,NXB Kim Dong,10,02,2000,1,
+KH02,Quyen sach B,Nguyen Thi Tuyet,70,KH,NXB Tre,25,05,2000,1,
+GD03,Quyen sach C,Doan Tri Vi,200,GD,NXB HCM,22,07,1990,1,
+TT04,Quyen sach D,Le Van Hoa,200,TT,NXB Kim Dong,10,01,2000,1,
+TT05,Quyen sach E,Le Van Hoa,180,TT,NXB Kim Dong,15,10,2000,1,
+GD06,Quyen sach F,Le Van Hoa,100,GD,NXB Kim Dong,10,02,1996,1,
+KH07,Quyen sach G,Doan Tri Vi,50,KH,NXB Tre,30,04,2005,1,
+KH08,Quyen sach H,Doan Tri Vi,10,KH,NXB Tre,30,08,2005,1,

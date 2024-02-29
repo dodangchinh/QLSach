@@ -1,0 +1,66 @@
+﻿  stdafx.cpp
+  Draw.cpp
+c:\users\dangc\desktop\học\thầy nam\csdl\chinh_c3_bt++\chinh_c3_bt\draw.cpp(109): warning C4309: 'argument': truncation of constant value
+c:\users\dangc\desktop\học\thầy nam\csdl\chinh_c3_bt++\chinh_c3_bt\draw.cpp(122): warning C4309: 'argument': truncation of constant value
+c:\users\dangc\desktop\học\thầy nam\csdl\chinh_c3_bt++\chinh_c3_bt\draw.cpp(145): warning C4309: 'argument': truncation of constant value
+c:\users\dangc\desktop\học\thầy nam\csdl\chinh_c3_bt++\chinh_c3_bt\draw.cpp(153): warning C4309: 'argument': truncation of constant value
+c:\users\dangc\desktop\học\thầy nam\csdl\chinh_c3_bt++\chinh_c3_bt\draw.cpp(155): warning C4309: 'argument': truncation of constant value
+c:\users\dangc\desktop\học\thầy nam\csdl\chinh_c3_bt++\chinh_c3_bt\draw.cpp(157): warning C4309: 'argument': truncation of constant value
+c:\users\dangc\desktop\học\thầy nam\csdl\chinh_c3_bt++\chinh_c3_bt\draw.cpp(159): warning C4309: 'argument': truncation of constant value
+c:\users\dangc\desktop\học\thầy nam\csdl\chinh_c3_bt++\chinh_c3_bt\draw.cpp(161): warning C4309: 'argument': truncation of constant value
+c:\users\dangc\desktop\học\thầy nam\csdl\chinh_c3_bt++\chinh_c3_bt\draw.cpp(163): warning C4309: 'argument': truncation of constant value
+c:\users\dangc\desktop\học\thầy nam\csdl\chinh_c3_bt++\chinh_c3_bt\draw.cpp(165): warning C4309: 'argument': truncation of constant value
+c:\users\dangc\desktop\học\thầy nam\csdl\chinh_c3_bt++\chinh_c3_bt\draw.cpp(167): warning C4309: 'argument': truncation of constant value
+c:\users\dangc\desktop\học\thầy nam\csdl\chinh_c3_bt++\chinh_c3_bt\draw.cpp(169): warning C4309: 'argument': truncation of constant value
+c:\users\dangc\desktop\học\thầy nam\csdl\chinh_c3_bt++\chinh_c3_bt\draw.cpp(182): warning C4309: 'argument': truncation of constant value
+c:\users\dangc\desktop\học\thầy nam\csdl\chinh_c3_bt++\chinh_c3_bt\draw.cpp(184): warning C4309: 'argument': truncation of constant value
+c:\users\dangc\desktop\học\thầy nam\csdl\chinh_c3_bt++\chinh_c3_bt\draw.cpp(185): warning C4309: 'argument': truncation of constant value
+c:\users\dangc\desktop\học\thầy nam\csdl\chinh_c3_bt++\chinh_c3_bt\draw.cpp(226): warning C4309: 'argument': truncation of constant value
+c:\users\dangc\desktop\học\thầy nam\csdl\chinh_c3_bt++\chinh_c3_bt\draw.cpp(235): warning C4309: 'argument': truncation of constant value
+c:\users\dangc\desktop\học\thầy nam\csdl\chinh_c3_bt++\chinh_c3_bt\draw.cpp(259): warning C4309: 'argument': truncation of constant value
+c:\users\dangc\desktop\học\thầy nam\csdl\chinh_c3_bt++\chinh_c3_bt\draw.cpp(266): warning C4309: 'argument': truncation of constant value
+c:\users\dangc\desktop\học\thầy nam\csdl\chinh_c3_bt++\chinh_c3_bt\draw.cpp(287): warning C4309: 'argument': truncation of constant value
+c:\users\dangc\desktop\học\thầy nam\csdl\chinh_c3_bt++\chinh_c3_bt\draw.cpp(299): warning C4309: 'argument': truncation of constant value
+c:\users\dangc\desktop\học\thầy nam\csdl\chinh_c3_bt++\chinh_c3_bt\draw.cpp(314): warning C4129: '%': unrecognized character escape sequence
+c:\users\dangc\desktop\học\thầy nam\csdl\chinh_c3_bt++\chinh_c3_bt\draw.cpp(338): warning C4309: 'argument': truncation of constant value
+c:\users\dangc\desktop\học\thầy nam\csdl\chinh_c3_bt++\chinh_c3_bt\draw.cpp(349): warning C4309: 'argument': truncation of constant value
+  CType.cpp
+c:\users\dangc\desktop\học\thầy nam\csdl\chinh_c3_bt++\chinh_c3_bt\ctype.cpp(517): warning C4018: '<': signed/unsigned mismatch
+c:\users\dangc\desktop\học\thầy nam\csdl\chinh_c3_bt++\chinh_c3_bt\ctype.cpp(531): warning C4018: '<': signed/unsigned mismatch
+  Chinh_C3_BT.cpp
+c:\users\dangc\desktop\học\thầy nam\csdl\chinh_c3_bt++\chinh_c3_bt\chinh_c3_bt.cpp(12): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\dangc\desktop\học\thầy nam\csdl\chinh_c3_bt++\chinh_c3_bt\chinh_c3_bt.cpp(167): warning C4018: '<': signed/unsigned mismatch
+c:\users\dangc\desktop\học\thầy nam\csdl\chinh_c3_bt++\chinh_c3_bt\chinh_c3_bt.cpp(169): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+c:\users\dangc\desktop\học\thầy nam\csdl\chinh_c3_bt++\chinh_c3_bt\chinh_c3_bt.cpp(180): warning C4018: '<': signed/unsigned mismatch
+c:\users\dangc\desktop\học\thầy nam\csdl\chinh_c3_bt++\chinh_c3_bt\chinh_c3_bt.cpp(619): warning C4309: 'argument': truncation of constant value
+c:\users\dangc\desktop\học\thầy nam\csdl\chinh_c3_bt++\chinh_c3_bt\chinh_c3_bt.cpp(641): warning C4309: 'argument': truncation of constant value
+c:\users\dangc\desktop\học\thầy nam\csdl\chinh_c3_bt++\chinh_c3_bt\chinh_c3_bt.cpp(669): warning C4309: 'argument': truncation of constant value
+c:\users\dangc\desktop\học\thầy nam\csdl\chinh_c3_bt++\chinh_c3_bt\chinh_c3_bt.cpp(690): warning C4309: 'argument': truncation of constant value
+c:\users\dangc\desktop\học\thầy nam\csdl\chinh_c3_bt++\chinh_c3_bt\chinh_c3_bt.cpp(716): warning C4309: 'argument': truncation of constant value
+c:\users\dangc\desktop\học\thầy nam\csdl\chinh_c3_bt++\chinh_c3_bt\chinh_c3_bt.cpp(811): warning C4477: 'fprintf_s' : format string '%d' requires an argument of type 'int', but variadic argument 3 has type 'Date'
+c:\users\dangc\desktop\học\thầy nam\csdl\chinh_c3_bt++\chinh_c3_bt\chinh_c3_bt.cpp(811): warning C4473: 'fprintf_s' : not enough arguments passed for format string
+  c:\users\dangc\desktop\học\thầy nam\csdl\chinh_c3_bt++\chinh_c3_bt\chinh_c3_bt.cpp(811): note: placeholders and their parameters expect 6 variadic arguments, but 4 were provided
+  c:\users\dangc\desktop\học\thầy nam\csdl\chinh_c3_bt++\chinh_c3_bt\chinh_c3_bt.cpp(811): note: the missing variadic argument 5 is required by format string '%d'
+c:\users\dangc\desktop\học\thầy nam\csdl\chinh_c3_bt++\chinh_c3_bt\chinh_c3_bt.cpp(860): warning C4477: 'fprintf_s' : format string '%d' requires an argument of type 'int', but variadic argument 3 has type 'Date'
+c:\users\dangc\desktop\học\thầy nam\csdl\chinh_c3_bt++\chinh_c3_bt\chinh_c3_bt.cpp(860): warning C4473: 'fprintf_s' : not enough arguments passed for format string
+  c:\users\dangc\desktop\học\thầy nam\csdl\chinh_c3_bt++\chinh_c3_bt\chinh_c3_bt.cpp(860): note: placeholders and their parameters expect 6 variadic arguments, but 4 were provided
+  c:\users\dangc\desktop\học\thầy nam\csdl\chinh_c3_bt++\chinh_c3_bt\chinh_c3_bt.cpp(860): note: the missing variadic argument 5 is required by format string '%d'
+c:\users\dangc\desktop\học\thầy nam\csdl\chinh_c3_bt++\chinh_c3_bt\chinh_c3_bt.cpp(975): warning C4101: 'max': unreferenced local variable
+c:\users\dangc\desktop\học\thầy nam\csdl\chinh_c3_bt++\chinh_c3_bt\chinh_c3_bt.cpp(1149): warning C4101: 'max': unreferenced local variable
+c:\users\dangc\desktop\học\thầy nam\csdl\chinh_c3_bt++\chinh_c3_bt\chinh_c3_bt.cpp(1311): warning C4101: 'status': unreferenced local variable
+c:\users\dangc\desktop\học\thầy nam\csdl\chinh_c3_bt++\chinh_c3_bt\chinh_c3_bt.cpp(1678): warning C4101: 'c': unreferenced local variable
+  Generating Code...
+c:\users\dangc\desktop\học\thầy nam\csdl\chinh_c3_bt++\chinh_c3_bt\chinh_c3_bt.cpp(130): warning C4715: 'ExitAdmin': not all control paths return a value
+c:\users\dangc\desktop\học\thầy nam\csdl\chinh_c3_bt++\chinh_c3_bt\chinh_c3_bt.cpp(412): warning C4715: 'StartTrim': not all control paths return a value
+c:\users\dangc\desktop\học\thầy nam\csdl\chinh_c3_bt++\chinh_c3_bt\chinh_c3_bt.cpp(422): warning C4715: 'EndTrim': not all control paths return a value
+c:\users\dangc\desktop\học\thầy nam\csdl\chinh_c3_bt++\chinh_c3_bt\chinh_c3_bt.cpp(505): warning C4715: 'checkStatus': not all control paths return a value
+c:\users\dangc\desktop\học\thầy nam\csdl\chinh_c3_bt++\chinh_c3_bt\chinh_c3_bt.cpp(753): warning C4715: 'getStatus': not all control paths return a value
+c:\users\dangc\desktop\học\thầy nam\csdl\chinh_c3_bt++\chinh_c3_bt\chinh_c3_bt.cpp(790): warning C4715: 'getStatus': not all control paths return a value
+c:\users\dangc\desktop\học\thầy nam\csdl\chinh_c3_bt++\chinh_c3_bt\chinh_c3_bt.cpp(1466): warning C4715: 'SearchIsbn': not all control paths return a value
+c:\users\dangc\desktop\học\thầy nam\csdl\chinh_c3_bt++\chinh_c3_bt\chinh_c3_bt.cpp(1537): warning C4715: 'InputName': not all control paths return a value
+c:\users\dangc\desktop\học\thầy nam\csdl\chinh_c3_bt++\chinh_c3_bt\chinh_c3_bt.cpp(1507): warning C4715: 'InputIsbn': not all control paths return a value
+c:\users\dangc\desktop\học\thầy nam\csdl\chinh_c3_bt++\chinh_c3_bt\chinh_c3_bt.cpp(1646): warning C4715: 'PosID': not all control paths return a value
+c:\users\dangc\desktop\học\thầy nam\csdl\chinh_c3_bt++\chinh_c3_bt\chinh_c3_bt.cpp(1602): warning C4715: 'SelectedGenres': not all control paths return a value
+  LINK : C:\Users\dangc\Desktop\Học\Thầy Nam\CSDL\Chinh_C3_BT++\Debug\Chinh_C3_BT.exe not found or not built by the last incremental link; performing full link
+  Chinh_C3_BT.vcxproj -> C:\Users\dangc\Desktop\Học\Thầy Nam\CSDL\Chinh_C3_BT++\Debug\Chinh_C3_BT.exe
+  Chinh_C3_BT.vcxproj -> C:\Users\dangc\Desktop\Học\Thầy Nam\CSDL\Chinh_C3_BT++\Debug\Chinh_C3_BT.pdb (Full PDB)

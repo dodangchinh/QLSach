@@ -1,0 +1,4 @@
+3
+GD,Giao duc,1,
+KH,Khoa hoc,0,
+TT,Truyen tranh,1,

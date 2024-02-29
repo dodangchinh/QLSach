@@ -1,0 +1,28 @@
+#pragma once
+struct Date;
+struct Category;
+struct ListCategory;
+struct BOOK;
+struct ListBook;
+struct Database;
+void DrawRow(int n, int m, int Number1, int Number2, int Number3, int Number4, int flag);
+void DrawSpace(int n);
+void DrawTitle(char c[], int n, int m, int count);
+void DrawRow(char c[], int n, int m);
+void DrawTitle(int length, int flag);
+void OutputTitle(int Value, int flag, int flags);
+void DrawSTT();
+void DrawRow(int n, int a, int m);
+void Draw(int n, char c);
+void Draw(int spaceV1, int spaceV2, int count, char c);
+void DrawChar(char *Index, int spaceV1, int spaceV2, int flag);
+void DrawInt(int Index, int spaceV1, int spaceV2, int flag);
+int CountIndex(int n);
+void DrawInt(int Value, int index, int space);
+void DrawName(char *Char, int index, int space);
+void DrawStatus(int Value, int values);
+void Output(ListCategory lstCategory);
+void Travesing(ListBook lstBook);
+void DrawDate(Date date, int spaceV1, int spaceV2);
+void DrawNameDate(Date date);
+void Output(ListBook lstBook);
